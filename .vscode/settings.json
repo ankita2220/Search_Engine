@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "iosfwd": "cpp",
+    "regex": "cpp",
+    "string": "cpp",
+    "unordered_set": "cpp"
+  }
+}
