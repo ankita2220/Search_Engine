@@ -1,0 +1,3 @@
+[submodule "meta_folder"]
+	path = meta_folder
+	url = https://github.com/YourSubmoduleRepoURL.git
