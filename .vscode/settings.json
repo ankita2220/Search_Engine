@@ -77,6 +77,14 @@
     "concepts": "cpp",
     "numeric": "cpp",
     "random": "cpp",
-    "algorithm": "cpp"
-  }
+    "algorithm": "cpp",
+    "filesystem": "cpp",
+    "any": "cpp",
+    "codecvt": "cpp",
+    "csetjmp": "cpp",
+    "csignal": "cpp",
+    "forward_list": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "enabled",
+  "cmake.sourceDirectory": "/Users/mansibakshi/Code playground/minor/civetweb-master"
 }
